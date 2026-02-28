@@ -1,6 +1,5 @@
 <div align="center">
   <img src="ridex.jpg" alt="Ridex" width="80" /><br><br>
-  <strong>Ridex</strong><br>
   Uber-lite ride booking backend. Spring Boot + PostgreSQL + Redis.<br><br>
 
   <img src="https://img.shields.io/badge/Spring_Boot-3.4.5-black?style=flat-square" />
