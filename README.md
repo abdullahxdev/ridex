@@ -2,9 +2,10 @@
   <img src="ridex.jpg" alt="Ridex" width="80" /><br><br>
   <strong>Ridex</strong><br>
   Uber-lite ride booking backend. Spring Boot + PostgreSQL + Redis.<br><br>
-  ![](https://img.shields.io/badge/Spring_Boot-3.4.5-black?style=flat-square)
-  ![](https://img.shields.io/badge/Java-17-black?style=flat-square)
-  ![](https://img.shields.io/badge/Status-In_Development-black?style=flat-square)
+
+  <img src="https://img.shields.io/badge/Spring_Boot-3.4.5-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-17-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-In_Development-black?style=flat-square" />
 </div>
 
 ---
