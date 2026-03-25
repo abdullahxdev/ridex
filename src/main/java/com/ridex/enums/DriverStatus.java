@@ -1,4 +1,7 @@
 package com.ridex.enums;
 
-public class DriverStatus {
+public enum DriverStatus {
+    ONLINE,
+    OFFLINE,
+    ON_TRIP
 }

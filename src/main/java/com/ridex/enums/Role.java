@@ -1,4 +1,7 @@
 package com.ridex.enums;
 
-public class Role {
+public enum Role {
+    RIDER,
+    DRIVER,
+    ADMIN
 }
