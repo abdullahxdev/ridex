@@ -24,6 +24,7 @@ public class Driver {
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
+    @Builder.Default
     private DriverStatus status = DriverStatus.OFFLINE;
 
     private Double rating;
@@ -41,5 +42,6 @@ public class Driver {
     private String vehiclePlate;
 
     @Column(nullable = false, columnDefinition = "integer default 0")
+    @Builder.Default
     private Integer totalTrips = 0;
 }
